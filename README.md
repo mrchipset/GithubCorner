@@ -1,4 +1,9 @@
+<div align="center">
+
 # GithubCorner
+English / [简体中文](./README_CN.md)
+</div>
+
 A typecho plugin to link to Github profile or repository on the website corner
 
 ![Screenshot](img/screenshot.png)
@@ -17,4 +22,4 @@ Add a specific custom field named `repository` with the URL to your repository. 
 
 
 ### Acknowledgement
-Thanks to tholman! Github corner widget is referenced from [https://github.com/tholman/github-corners](https://github.com/tholman/github-corners)
+Thanks to [@tholman](https://github.com/tholman)! Github corner widget is referenced from [https://github.com/tholman/github-corners](https://github.com/tholman/github-corners)
