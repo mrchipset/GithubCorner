@@ -30,7 +30,7 @@ class Plugin implements PluginInterface
      */
     public static function activate()
     {
-        \Typecho\Plugin::factory('Widget_Archive')->header = __CLASS__ . '::render';
+        \Typecho\Plugin::factory('Widget_Archive')->afterRender = __CLASS__ . '::render';
     }
 
     /**
